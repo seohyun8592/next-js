@@ -53,4 +53,4 @@ $ npm run dev
   }
   ```
 
-  ### redirect, rewrite
+### redirect, rewrite
